@@ -1,0 +1,36 @@
+.container {
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .table-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .thead {
+    background-color: #333;
+    color: white;
+  }
+  
+  .th, .td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .image { /* Scoped class for image */
+    width: 50px;
+    height: 50px;
+  }
+  
